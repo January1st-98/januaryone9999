@@ -3,3 +3,4 @@
 [📄 이력서](https://jagged-jupiter-d10.notion.site/iOS-6c98c21fce5f4678b518012addbd0212)
 ### 프로젝트
 1. [🐶 놀러오세요 동물의 숲](https://github.com/januaryone9999/AniHouse)
+-> [App Store Link](https://apps.apple.com/kr/app/%EB%8F%99%EB%AC%BC%EC%9D%98-%EC%A7%91/id1626948390)
